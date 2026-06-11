@@ -1,1 +1,107 @@
-[{"name": "Alice Smith", "course_applied": "HTML", "registration_status": "Approved"}, {"name": "Bob Jones", "course_applied": "CSS", "registration_status": "Approved"}, {"name": "Charlie Brown", "course_applied": "TypeScript", "registration_status": "Pending"}, {"name": "Diana Prince", "course_applied": "JavaScript", "registration_status": "Approved"}, {"name": "Evan Wright", "course_applied": "Java", "registration_status": "Pending"}, {"name": "Fiona Gallagher", "course_applied": "HTML", "registration_status": "Approved"}, {"name": "George Clark", "course_applied": "CSS", "registration_status": "Rejected"}, {"name": "Hannah Abbott", "course_applied": "TypeScript", "registration_status": "Approved"}, {"name": "Ian Malcolm", "course_applied": "JavaScript", "registration_status": "Approved"}, {"name": "Julia Roberts", "course_applied": "Java", "registration_status": "Approved"}, {"name": "Kevin Mitnick", "course_applied": "HTML", "registration_status": "Pending"}, {"name": "Laura Croft", "course_applied": "CSS", "registration_status": "Approved"}, {"name": "Michael Scott", "course_applied": "TypeScript", "registration_status": "Rejected"}, {"name": "Nancy Drew", "course_applied": "JavaScript", "registration_status": "Approved"}, {"name": "Oscar Martinez", "course_applied": "Java", "registration_status": "Approved"}, {"name": "Pam Beesly", "course_applied": "HTML", "registration_status": "Approved"}, {"name": "Quentin Tarantino", "course_applied": "CSS", "registration_status": "Pending"}, {"name": "Rachel Green", "course_applied": "TypeScript", "registration_status": "Approved"}, {"name": "Sam Winchester", "course_applied": "JavaScript", "registration_status": "Approved"}, {"name": "Tony Stark", "course_applied": "Java", "registration_status": "Approved"}, {"name": "Tony Stark", "course_applied": "HTML", "registration_status": "Approved"}]
+[
+  {
+    "name": "Alice Smith",
+    "course_applied": "HTML",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Bob Jones",
+    "course_applied": "CSS",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Charlie Brown",
+    "course_applied": "TypeScript",
+    "registration_status": "Pending"
+  },
+  {
+    "name": "Diana Prince",
+    "course_applied": "JavaScript",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Evan Wright",
+    "course_applied": "Java",
+    "registration_status": "Pending"
+  },
+  {
+    "name": "Fiona Gallagher",
+    "course_applied": "HTML",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "George Clark",
+    "course_applied": "CSS",
+    "registration_status": "Rejected"
+  },
+  {
+    "name": "Hannah Abbott",
+    "course_applied": "TypeScript",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Ian Malcolm",
+    "course_applied": "JavaScript",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Julia Roberts",
+    "course_applied": "Java",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Kevin Mitnick",
+    "course_applied": "HTML",
+    "registration_status": "Pending"
+  },
+  {
+    "name": "Laura Croft",
+    "course_applied": "CSS",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Michael Scott",
+    "course_applied": "TypeScript",
+    "registration_status": "Rejected"
+  },
+  {
+    "name": "Nancy Drew",
+    "course_applied": "JavaScript",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Oscar Martinez",
+    "course_applied": "Java",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Pam Beesly",
+    "course_applied": "HTML",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Quentin Tarantino",
+    "course_applied": "CSS",
+    "registration_status": "Pending"
+  },
+  {
+    "name": "Rachel Green",
+    "course_applied": "TypeScript",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Sam Winchester",
+    "course_applied": "JavaScript",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Tony Stark",
+    "course_applied": "Java",
+    "registration_status": "Approved"
+  },
+  {
+    "name": "Tony Stark",
+    "course_applied": "HTML",
+    "registration_status": "Approved"
+  }
+]

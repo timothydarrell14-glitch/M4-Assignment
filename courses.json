@@ -1,1 +1,43 @@
-[{"course_id": "CRS001", "course_name": "HTML", "trainer": "Prof. Alex Kiprop", "capacity": 30, "number_of_applicants": 4}, {"course_id": "CRS002", "course_name": "CSS", "trainer": "Dr. Sarah Jenkins", "capacity": 25, "number_of_applicants": 4}, {"course_id": "CRS003", "course_name": "TypeScript", "trainer": "Eng. Morris Mwangi", "capacity": 20, "number_of_applicants": 4}, {"course_id": "CRS004", "course_name": "JavaScript", "trainer": "Linus Torvalds Jr.", "capacity": 35, "number_of_applicants": 4}, {"course_id": "CRS005", "course_name": "Java", "trainer": "Grace Hopper Thompson", "capacity": 15, "number_of_applicants": 4}, {"course_id": "SRC001", "course_name": "C++", "trainer_name": "Darrell", "capacity": 14}]
+[
+  {
+    "course_id": "CRS001",
+    "course_name": "HTML",
+    "trainer": "Prof. Alex Kiprop",
+    "capacity": 30,
+    "number_of_applicants": 4
+  },
+  {
+    "course_id": "CRS002",
+    "course_name": "CSS",
+    "trainer": "Dr. Sarah Jenkins",
+    "capacity": 25,
+    "number_of_applicants": 4
+  },
+  {
+    "course_id": "CRS003",
+    "course_name": "TypeScript",
+    "trainer": "Eng. Morris Mwangi",
+    "capacity": 20,
+    "number_of_applicants": 4
+  },
+  {
+    "course_id": "CRS004",
+    "course_name": "JavaScript",
+    "trainer": "Linus Torvalds Jr.",
+    "capacity": 35,
+    "number_of_applicants": 4
+  },
+  {
+    "course_id": "CRS005",
+    "course_name": "Java",
+    "trainer": "Grace Hopper Thompson",
+    "capacity": 15,
+    "number_of_applicants": 4
+  },
+  {
+    "course_id": "SRC001",
+    "course_name": "C++",
+    "trainer_name": "Darrell",
+    "capacity": 14
+  }
+]
