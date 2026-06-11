@@ -73,7 +73,6 @@ class Course:
                 print("Course not found.")
 
 # -------------------------SCHOOL SYSTEM (Registrations, Applications)-------------------------------------
-
 class SchoolSystem:
     def __init__(self):
 
