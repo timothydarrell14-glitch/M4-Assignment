@@ -13,6 +13,10 @@ class Course:
               'capacity': self.capacity
          }
     
-    
+    #Course management methods
 
-    
+    # add
+    # view
+    # delete
+    # update a course
+    # check if course exists
